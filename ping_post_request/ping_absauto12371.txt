@@ -1,0 +1,13 @@
+Ping URL::>http://leadtrading.autobuyingsolutionsinc.com/AutomotiveFinance.asmx/DynamicPricePing
+
+Ping Data::>providerId=262&grossMonthlyIncome=4000&socialSecurityNumber=392667987&postalCode=53408
+
+Ping Response::><?xml version="1.0" encoding="utf-8"?>
+<dynamicPricingPingResponse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://leadtrading.autobuyingsolutionsinc.com/AutomotiveFinance.asmx/">
+  <providerId>0</providerId>
+  <message>Coverage</message>
+  <price>0.264</price>
+  <reservationCode>452927014</reservationCode>
+  <successful>true</successful>
+</dynamicPricingPingResponse>
+
