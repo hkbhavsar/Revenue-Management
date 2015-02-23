@@ -1,0 +1,15 @@
+<?php defined('SYSPATH') or die('No direct script access.'); ?>
+
+2013-04-17 17:57:32 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: auth/images/favicons/favicon.ico ~ SYSPATH\classes\kohana\request.php [ 676 ]
+2013-04-17 17:57:32 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: auth/images/apple-touch-icon.html ~ SYSPATH\classes\kohana\request.php [ 676 ]
+2013-04-17 18:01:51 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: css/ui/themes/darkblue/images/ui-bg_flat_0_757575_40x100.png ~ SYSPATH\classes\kohana\request.php [ 676 ]
+2013-04-17 18:01:57 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: css/ui/themes/darkblue/images/ui-bg_flat_0_757575_40x100.png ~ SYSPATH\classes\kohana\request.php [ 676 ]
+2013-04-17 18:02:54 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: ping_post_request/ping_dmauto_ran2.txt ~ SYSPATH\classes\kohana\request.php [ 676 ]
+2013-04-17 18:03:03 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: ping_post_request/post_dmauto_ran2.txt ~ SYSPATH\classes\kohana\request.php [ 676 ]
+2013-04-17 18:04:21 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: auth/images/apple-touch-icon.html ~ SYSPATH\classes\kohana\request.php [ 676 ]
+2013-04-17 18:04:21 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: auth/images/apple-touch-icon.html ~ SYSPATH\classes\kohana\request.php [ 676 ]
+2013-04-17 18:04:21 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: auth/images/favicons/favicon.ico ~ SYSPATH\classes\kohana\request.php [ 676 ]
+2013-04-17 18:04:21 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: auth/images/favicons/favicon.ico ~ SYSPATH\classes\kohana\request.php [ 676 ]
+2013-04-17 18:06:21 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: ping_post_request/ping_dmauto_ran3.txt ~ SYSPATH\classes\kohana\request.php [ 676 ]
+2013-04-17 18:10:13 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: ping_post_request/ping_dmauto_ran3.txt ~ SYSPATH\classes\kohana\request.php [ 676 ]
+2013-04-17 18:50:29 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: ping_post_request/ping_dmauto_ran24.txt ~ SYSPATH\classes\kohana\request.php [ 676 ]

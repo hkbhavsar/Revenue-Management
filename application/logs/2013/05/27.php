@@ -1,0 +1,18 @@
+<?php defined('SYSPATH') or die('No direct script access.'); ?>
+
+2013-05-27 16:22:09 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: css/ui/themes/darkblue/images/ui-bg_flat_0_757575_40x100.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-05-27 16:22:09 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: auth/images/favicons/favicon.ico ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-05-27 16:22:11 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: auth/images/apple-touch-icon.html ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-05-27 16:23:12 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: css/ui/themes/darkblue/images/ui-bg_flat_0_757575_40x100.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-05-27 16:24:15 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: css/ui/themes/darkblue/images/ui-bg_flat_0_757575_40x100.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-05-27 16:24:41 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: css/ui/themes/darkblue/images/ui-bg_flat_0_757575_40x100.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-05-27 16:27:17 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: css/ui/themes/darkblue/images/ui-bg_flat_0_757575_40x100.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-05-27 16:29:00 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: css/ui/themes/darkblue/images/ui-bg_flat_0_757575_40x100.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-05-27 16:36:40 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: css/ui/themes/darkblue/images/ui-bg_flat_0_757575_40x100.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-05-27 16:45:17 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: css/ui/themes/darkblue/images/ui-bg_flat_0_757575_40x100.png ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-05-27 17:59:04 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: auth/images/apple-touch-icon.html ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-05-27 17:59:06 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: auth/images/favicons/favicon.ico ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-05-27 17:59:06 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: auth/images/apple-touch-icon.html ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-05-27 17:59:07 --- ERROR: Kohana_Request_Exception [ 0 ]: Unable to find a route to match the URI: auth/images/favicons/favicon.ico ~ SYSPATH/classes/kohana/request.php [ 676 ]
+2013-05-27 18:10:05 --- ERROR: Database_Exception [ 1052 ]: Column 'c_date' in where clause is ambiguous [ SELECT `users`.*, `tbl_lead_submit`.`post_response`, `tbl_lead_submit`.`lead_id`, `tbl_lead_auto`.* FROM `tbl_lead_auto` LEFT JOIN `users` ON (`users`.`id` = `tbl_lead_auto`.`agent_id`) LEFT JOIN `tbl_lead_submit` ON (`tbl_lead_auto`.`lead_auto_id` = `tbl_lead_submit`.`lead_id`) WHERE `c_date`  ~ MODPATH/database/classes/kohana/database/mysql.php [ 179 ]
+2013-05-27 23:30:05 --- ERROR: Database_Exception [ 1048 ]: Column 'lead_id' cannot be null [ INSERT INTO `tbl_lead_submit` (`ping_response`, `post_response`, `lead_id`, `client_id`, `lead_types`, `c_date`) VALUES ('Fail', 'Fail', NULL, 41, 'Auto', NULL) ] ~ MODPATH/database/classes/kohana/database/mysql.php [ 179 ]
